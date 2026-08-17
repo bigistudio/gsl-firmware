@@ -1,4 +1,4 @@
-fusion5/T60
+fusion5/FWIN232 Pro N5
 -----------------
 
 | Item                      | Description |
