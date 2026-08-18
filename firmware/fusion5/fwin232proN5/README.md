@@ -10,7 +10,7 @@ fusion5/FWIN232 Pro N5
 | Extracted firmware        | SileadTouch.fw |
 | Display resolution        | 1920x1200|
 | Touch panel resolution    | 1270x1978|
-| Touch controller          | GSL1680 |
+| Touch controller          | MSSL1680 |
 | Multitouch support        | Yes (10) |
 | Axes swapped              | Yes, need swapped-x-y |
 | Comments                  | this driver version = 05/23/2023|
